@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hi!, I am Shreyas. 
+I love racing, especially series like F1 and endurance racing (WEC and IMSA).
+This is also my first time creating a branch in a repository.
